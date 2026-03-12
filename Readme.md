@@ -96,7 +96,6 @@ Choose your preferred method to set up a Python environment:
 ## Notes
 
 - Ensure the backend is running before using the frontend interface.
-- You may need to set environment variables for API keys (see code comments).
 - Explore and modify the system prompt and model options in the UI to customize your agent!
 
 ---
